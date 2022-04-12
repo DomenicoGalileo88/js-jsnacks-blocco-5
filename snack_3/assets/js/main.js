@@ -5,8 +5,7 @@ Scrivi una funzione che accetti una stringa come argomento e la ritorni girata (
 
 */
 
-let stringa = 'stringa';
-
+let stringa = 'ciao';
 //console.log(stringa.split('').reverse().join(''));
 
 function reverseString(string) {
